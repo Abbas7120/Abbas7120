@@ -1,6 +1,7 @@
 **Hi 👋, I'm SYED MOHAMMAD ABBAS RIZVI**
 
-![download](https://github.com/Abbas7120/Abbas7120/assets/148750291/a0a81632-28b5-451b-8a5c-4fc33ed927d7)
+![Black Technology LinkedIn Banner](https://github.com/Abbas7120/Abbas7120/assets/148750291/d0be089d-9e94-42d4-afea-c176eb1919b8)
+
 
 
 **Programming Languages**:
