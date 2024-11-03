@@ -27,6 +27,10 @@
 
  •🛠️ Proficient in using GitHub for version control.
 
+ **Github Stats**:
+ 
+ ![Abbas7120's Stats](https://github-readme-stats.vercel.app/api?username=Abbas7120&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+
 **Networking and Learning**:
 
  •🤝 Let's collaborate, share knowledge, and explore the ever-evolving tech world together.
