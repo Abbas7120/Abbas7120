@@ -1,15 +1,11 @@
 
-
-![Black Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/4ecfb8b8-0eff-48ac-814e-61c2dfb6f578)
-
-
-**Hi 👋, I'm SYED MOHAMMAD ABBAS RIZVI**
+### Hi 👋, I'm SYED MOHAMMAD ABBAS RIZVI
 
 <a href="https://www.github.com/Abbas7120" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abbas7120?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -56,8 +52,7 @@ src="https://img.shields.io/github/followers/Abbas7120?logo=github&style=for-the
 </div>
 
 
-<b>My GitHub Stats</b>
-
+## My GitHub Stats 
 <a href="http://www.github.com/Abbas7120"><img src="https://github-readme-stats.vercel.app/api?username=Abbas7120&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abbas7120's GitHub stats" /></a>
 
 <a href="http://www.github.com/Abbas7120"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas7120&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
